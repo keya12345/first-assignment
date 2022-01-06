@@ -52,12 +52,15 @@ h2{
 }
 #new2{
     background-color: rgb(202, 221, 202);
+    border-radius: 10px;
 }
 #new3{
     background-color:rgb(224, 211, 206);
+    border-radius: 10px;
 }
 #new4{
     background-color: rgb(199, 199, 219);
+    border-radius: 10px;
 }
 .image{
     background-image: url(images/shapes/dream-bg.png);
