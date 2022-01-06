@@ -77,3 +77,19 @@ footer{
 .Red{
     color:rgb(134, 57, 57);
 }
+
+.image1{
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+}
+.image2{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+}
+.image3{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
